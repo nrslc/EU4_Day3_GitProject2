@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello everybody");
         System.out.println("Sun has not come yet");
         System.out.println("Clouds are hidden");
+        System.out.println("Today has started already");
 
     }
 }
