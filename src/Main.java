@@ -4,6 +4,7 @@ public class Main {
 	// write your code here
         System.out.println("Hello everybody");
         System.out.println("Sun has not come yet");
+        System.out.println("Clouds are hidden");
 
     }
 }
